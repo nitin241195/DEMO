@@ -1,0 +1,15 @@
+//To check the ASCII Code
+package studentmgtsystem;
+
+public class student {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		            
+					char u='a';
+					System.out.println((int)u);
+
+				
+
+			}
+       }
