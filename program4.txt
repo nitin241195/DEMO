@@ -1,0 +1,16 @@
+package studentmgtsystem;
+
+public class student {
+
+	public static void main(String[] args) {
+		
+		            
+					int p=97;
+					System.out.println((char)p); //Typecasting
+					
+
+				
+
+			}
+       }
+
